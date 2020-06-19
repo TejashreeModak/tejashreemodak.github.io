@@ -21,15 +21,14 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Research:
-  GitHub:
+    - Research Areas:
+    - Research Gate: ""  
     - My github: "https://github.com/tejashree1modak"
-  Career:
+  CV:
     - Putnam Lab: "http://putnamlab.com/"
     - Schwartz Lab: "https://schwartzlaburi.github.io/index.html"  
-  Resources:
-    - Data Carpentry: "https://datacarpentry.org/"
-    - Learn markdown: ""
-  Science Communication: "corals"
+  SciComm: 
+
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/T_image2.jpg"
