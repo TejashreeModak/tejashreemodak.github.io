@@ -19,7 +19,6 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Research:
     - Research Areas:
     - Research Gate: ""  
