@@ -20,9 +20,9 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Research:
-    - Research Areas:
-        - Research Gate: "https://www.researchgate.net/profile/Tejashree_Modak2/research"
-        - Google Scholar: "https://scholar.google.com/citations?user=_wf2oBsAAAAJ&hl=en&oi=ao"
+    - Research Areas: ""
+    - Research Gate: "https://www.researchgate.net/profile/Tejashree_Modak2/research"
+    - Google Scholar: "https://scholar.google.com/citations?user=_wf2oBsAAAAJ&hl=en&oi=ao"
     - My github: "https://github.com/tejashree1modak"
   Research Labs:
     - Putnam Lab: "http://putnamlab.com/"
