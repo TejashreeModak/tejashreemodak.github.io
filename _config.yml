@@ -31,7 +31,7 @@ navbar-links:
     - Sorenson Lab: "http://people.bu.edu/msoren/research.html"
     - Watve Lab: "https://milindwatve.home.blog/research-publications/"  
   SciComm: 
-    - Oceanbites: "oceanbites.html"
+    - Oceanbites: "oceanbites"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
