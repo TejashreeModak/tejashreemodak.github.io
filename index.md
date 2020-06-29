@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About Me
 nav-short: true
 css: /css/index.css
