@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renewed hope for reef-building corals to combat climate change
-subtitle: Oceanbites
+date: 2020-06-24
 ---
 
 If you have ever had a chance to snorkel in a reef, you would agree that it is an unforgettable experience. Its special mainly because of the colorful corals and the diverse life forms they support. But corals around the world are being hit hard from effects of warming ocean temperatures and ocean acidification. Corals are dying at an alarming rate across the world oceans. Read on to learn about new evidence shown for the first time that brings hope for reef-building corals to survive the effects of global warming!
