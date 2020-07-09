@@ -24,12 +24,8 @@ navbar-links:
     - Research Gate: "https://www.researchgate.net/profile/Tejashree_Modak2/research"
     - Google Scholar: "https://scholar.google.com/citations?user=_wf2oBsAAAAJ&hl=en&oi=ao"
     - My github: "https://github.com/tejashree1modak"
-  Research Labs:
-    - Putnam Lab: "http://putnamlab.com/"
-    - Schwartz Lab: "https://schwartzlaburi.github.io/index.html"
-    - Gomez-Chiarri Lab: "https://web.uri.edu/favs/marta-gomez-chiarri/"
-    - Sorenson Lab: "http://people.bu.edu/msoren/research.html"
-    - Watve Lab: "https://milindwatve.home.blog/research-publications/"  
+  BioInformatics:
+    - Blog Posts: "bio-blogs"
   SciComm: 
     - Oceanbites: "oceanbites"
 
