@@ -5,40 +5,19 @@ css: /css/index.css
 ---
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
   <article>
-    <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
-	    <h2 class="post-title">{{ post.title }}</h2>
+    <a class="post-preview" href="/renewed-hope-for-reef-building-corals">
+	    <h2 class="post-title">Renewed hope for reef-building corals to combat climate change</h2>
 	
-	    {% if post.subtitle %}
-	    <h3 class="post-subtitle">
-	      {{ post.subtitle }}
-	    </h3>
-	    {% endif %}
       <p class="post-meta">
-        Posted on {{ post.date | date: "%B %-d, %Y" }}
+        Posted on June 24, 2020
       </p>
 
       <div class="post-entry">
-        {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-        <span href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</span>
+        If you have ever had a chance to snorkel in a reef...
+        <span href="/renewed-hope-for-reef-building-corals" class="post-read-more">[Read&nbsp;More]</span>
       </div>
     </a>  
    </article>
-  {% endfor %}
 </div>
 
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
