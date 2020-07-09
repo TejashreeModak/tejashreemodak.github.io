@@ -40,8 +40,7 @@ A sequenced genome can unlock a massive amount of research power. I have been pa
 ## What can molecular DNA markers tell us about colonization history of Pacific islands?
 
 The Pacific Ocean has a number of islands that are geographically isolated and as such make a great model to study island biogeography and understand how species colonized these islands. My focus was on the volcanic islands of American Samoa, Wallis and Futuna, Fiji, Tonga, and New Caledonia that vary in time of origin and age. I used mitochondrial DNA markers to reconstruct the phylogenetic relationships of several Samoan land bird species along with closely related taxa on neighboring islands.
-
-MS, [Sorenson Lab](http://people.bu.edu/msoren/TreeRot.html), BU
+<br/>MS, [Sorenson Lab](http://people.bu.edu/msoren/TreeRot.html), BU
 
 ## The need for new antibiotics and who can fit the bill. 
 
