@@ -4,10 +4,10 @@ title: About Me
 nav-short: true
 css: /css/index.css
 bigimg:
-  - "/img/IMG_8758.jpg" : "Setting up experiments for RNA-seq"
+  - "/img/IMG_8758 copy.jpg" : "Setting up experiments for RNA-seq"
   - "/img/IMG_6761.JPG" : "Experiments at Oyster Hatchery, Roger Williams University"
   - "/img/IMG_7418.jpg" : "Poster presentation at The Society for Women in Marine Science symposium"
-  - "/img/IMG_0111.jpg" : "MGC lab, URI"
+  - "/img/IMG_0111 copy.jpg" : "MGC lab, URI"
   - "/img/IMG_0163.jpg" : "Poster presentation at Genomics conference, The Royal Society "
 ---
 
