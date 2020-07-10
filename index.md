@@ -4,11 +4,11 @@ title: About Me
 nav-short: true
 css: /css/index.css
 bigimg:
-  - "/img/IMG_8758.JPG" : "Setting up experiments for RNA-seq"
+  - "/img/IMG_8758.jpg" : "Setting up experiments for RNA-seq"
   - "/img/IMG_6761.JPG" : "Experiments at Oyster Hatchery, Roger Williams University"
-  - "/img/IMG_7418.JPG" : "Poster presentation at The Society for Women in Marine Science symposium"
-  - "/img/IMG_0111.JPG" : "MGC lab, URI"
-  - "/img/IMG_0163.JPG" : "Poster presentation at Genomics conference, The Royal Society "
+  - "/img/IMG_7418.jpg" : "Poster presentation at The Society for Women in Marine Science symposium"
+  - "/img/IMG_0111.jpg" : "MGC lab, URI"
+  - "/img/IMG_0163.jpg" : "Poster presentation at Genomics conference, The Royal Society "
 ---
 
 I am a biologist with training in diverse fields such as microbiology, molecular biology, immunology, genomics and ecology and evolutionary biology. I received my PhD in Cell and Molecular Biology from The University of Rhode Island. My research experience has focused on a variety of topics such as computational biology, phylogenetics, innate immune mechanisms, comparative genomics, population genetics and epigenetics. With a rise in interdisciplinary research and their boundaries becoming even more fuzzier, I feel fortunate to have had the opportunity to work in a wide array of fields that make my research profile rich and unique.
