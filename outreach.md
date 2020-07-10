@@ -1,5 +1,5 @@
 ---
-title: Outreah 
+title: Outreach 
 layout: page
 ---
 
@@ -10,4 +10,4 @@ I volunteered at this exciting event held at Fort Adams for the Newport Stopover
 <br/>[Event website](https://11thhourracing.org/projects/sail-newport-one-ocean-exploration-zone/)
 
 :-------------------------:|:-------------------------:
-![](https://github.com/tejashree1modak/tejashree1modak.github.io/blob/master/img/IMG_7212.jpg)  |  ![](https://github.com/tejashree1modak/tejashree1modak.github.io/blob/master/img/IMG_7211.jpg) 
+![](/img/IMG_7212.jpg)  |  ![](/img/IMG_7211.jpg) 
