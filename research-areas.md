@@ -5,6 +5,7 @@ layout: page
 
 ## Developing a new method for using both population genetics and epigenetics data together to inform population studies
 
+<img align="right" src="/img/moorea">
 DNA mutations are the best understood mechanisms to generate variation, but other, less well‐studied mechanisms such as DNA methylation exist and need to be explored more. Especially considering the fact that these are influenced by environmental changes. This project aims at using a double digest Restriction site Associated DNA (ddRAD) and epiRAD combined approach to look at genetic and epigenetic variance in populations. I have developed pipelines to analyze genetic and epigenetic data to identify SNPs and differential methylation in populations to test for variation and influence of environmental factors as well as geographic location on the variation. 
 <br/>Post doctoral Research Fellow at [Putnam Lab](http://putnamlab.com/)
 
