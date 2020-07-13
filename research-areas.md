@@ -10,6 +10,7 @@ DNA mutations are the best understood mechanisms to generate variation, but othe
 <br/>Post doctoral Research Fellow at [Putnam Lab](http://putnamlab.com/)  
 
 
+
 ## Contributions and potential effects of structural variation in genomes 
 
 <img align="left" src="/img/struc_var.png">
@@ -17,11 +18,13 @@ Although presence of structural variation has been known since 1970s it is a hig
 <br/>Post doctoral Research Fellow at [Schwartz Lab](://schwartzlaburi.github.io/)  
 
 
+
 ## What do we know about innate immunity? And what we need to explore more.
 
 <img align="right" src="/img/innate_immunity.png">
-Organisms with no adaptive immunity rely on mechanisms of innate immunity that allow them to combat exposures to microbes, parasites and viruses. Immune mechanisms of non-model organisms can allow us to understand novel pathways and proteins involved in immunity. This project involved studying innate immune mechanisms using host-microbe interactions. I developed pipelines to analyze transcriptomic and genomic data to understand the genes, pathways and overall mechanisms involved in responding to pathogenic and non pathogenic microbes in the eastern oyster Crassostrea virginica.
+Organisms with no adaptive immunity rely on mechanisms of innate immunity that allow them to combat exposures to microbes, parasites and viruses. Immune mechanisms of non-model organisms can allow us to understand novel pathways and proteins involved in immunity. This project involved studying innate immune mechanisms using host-microbe interactions. I developed pipelines to analyze transcriptomic and genomic data to understand the genes, pathways and overall mechanisms involved in responding to pathogenic and non pathogenic microbes in the eastern oyster *Crassostrea virginica*.
 <br/>PhD [Gomez-Chiarri Lab](https://web.uri.edu/favs/marta-gomez-chiarri/), URI  
+
 
 
 ## Lineage-specific Immune gene family expansion. 
@@ -31,16 +34,19 @@ It has long been recognized that genes involved in the immune response are among
 <br/>PhD Gomez-Chiarri Lab, URI  
 
 
+
 ## Commercial applications through research.
 
 <img align="left" src="/img/commercial_app.png">
-Aquaculture is a growing industry that grapples with problems of vibriosis that directly affects production. This project aimed at developing sustainable and natural solutions by utilizing beneficial microbes to improve health and productivity in aquaculture. I conducted field trials of formulated probiotics for disease control in oyster hatcheries. Add link to aquaculture magazine issue.
+Aquaculture is a growing industry that grapples with problems of vibriosis that directly affects production. This project aimed at developing sustainable and natural solutions by utilizing beneficial microbes to improve health and productivity in aquaculture. I conducted field trials of formulated probiotics for disease control in oyster hatcheries. 
 <br/>PhD Gomez-Chiarri Lab, URI  
+
 
 
 ## Harnessing the power of Next Generation Sequencing to produce new genomes.
 
 A sequenced genome can unlock a massive amount of research power. I have been part of two genome consortiums to sequence and develop genomes of non-model organisms as a scientific resource for comparative studies.   
+
 
 
 ## What can molecular DNA markers tell us about colonization history of Pacific islands?
@@ -50,9 +56,10 @@ The Pacific Ocean has a number of islands that are geographically isolated and a
 <br/>MS, [Sorenson Lab](http://people.bu.edu/msoren/TreeRot.html), BU  
 
 
+
 ## The need for new antibiotics and who can fit the bill. 
 
-There are a handful of effective antibiotics and their rampant use has caused development of resistance in pathogens such as Staphylococcus aureus, Pseudomonas aeruginosa and Bacillus subtilis. Hospital-acquired infections are on the rise and the need for new antibiotics is urgent. I worked with [Dr. Milind Watve](https://milindwatve.home.blog/research-publications/) to screen for novel antibiotic producing oligophilic Actinomycetes. Oigophilic Actinomycetes are commercially attractive due to their scare requirement of nutrients for growth. This can significantly reduce scale up and production costs for these antibiotic producers. 
+There are a handful of effective antibiotics and their rampant use has caused development of resistance in pathogens such as *Staphylococcus aureus, Pseudomonas aeruginosa* and *Bacillus subtilis*. Hospital-acquired infections are on the rise and the need for new antibiotics is urgent. I worked with [Dr. Milind Watve](https://milindwatve.home.blog/research-publications/) to screen for novel antibiotic producing oligophilic *Actinomycetes*. Oigophilic *Actinomycetes* are commercially attractive due to their scare requirement of nutrients for growth. This can significantly reduce scale up and production costs for these antibiotic producers. 
 <br/>MS,University of Pune, India  
 
 
