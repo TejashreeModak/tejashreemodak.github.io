@@ -14,28 +14,28 @@ DNA mutations are the best understood mechanisms to generate variation, but othe
 
 <img align="left" src="/img/struc_var.png">
 Although presence of structural variation has been known since 1970s it is a highly understudied research topic. Recent advances have found links between copy number variation (CNV) and disease that has led to a surge of studies focusing on human structural variation. However most of the information we know is from a handful of models and mostly from humans. Comparative genomics can increase the breadth of our knowledge of structural variation. The goal of this project was to identify species specific novel mechanisms and rates of gene duplications, environmental influence on maintaining variation and their functional implications. I developed pipelines to assess copy number variation using whole genome sequencing data to obtain species specific CNV map.  
-<br/>Post doctoral Research Fellow at [Schwartz Lab](://schwartzlaburi.github.io/).  
+<br/>Post doctoral Research Fellow at [Schwartz Lab](://schwartzlaburi.github.io/)  
 
 
 ## What do we know about innate immunity? And what we need to explore more.
 
 <img align="right" src="/img/innate_immunity.png">
 Organisms with no adaptive immunity rely on mechanisms of innate immunity that allow them to combat exposures to microbes, parasites and viruses. Immune mechanisms of non-model organisms can allow us to understand novel pathways and proteins involved in immunity. This project involved studying innate immune mechanisms using host-microbe interactions. I developed pipelines to analyze transcriptomic and genomic data to understand the genes, pathways and overall mechanisms involved in responding to pathogenic and non pathogenic microbes in the eastern oyster Crassostrea virginica.
-<br/>PhD [Gomez-Chiarri Lab](https://web.uri.edu/favs/marta-gomez-chiarri/), URI.  
+<br/>PhD [Gomez-Chiarri Lab](https://web.uri.edu/favs/marta-gomez-chiarri/), URI  
 
 
 ## Lineage-specific Immune gene family expansion. 
 
 <img align="left" src="/img/expanded_fam.png">
 It has long been recognized that genes involved in the immune response are among the most rapidly evolving in many organisms. A large number of molecules in the immune system are encoded by multigene families. A classic example of a large multigene immune gene family is the globin family. Comparative genomics allows us to explore levels of diversification that vary between lineages. The goal of this project was to study novel lineage specific expansions in immune genes of GTPase of the immune-associated proteins (GIMAP) and interferon-inducible 44 (IFI44).  
-<br/>PhD Gomez-Chiarri Lab, URI.  
+<br/>PhD Gomez-Chiarri Lab, URI  
 
 
 ## Commercial applications through research.
 
 <img align="left" src="/img/commercial_app.png">
 Aquaculture is a growing industry that grapples with problems of vibriosis that directly affects production. This project aimed at developing sustainable and natural solutions by utilizing beneficial microbes to improve health and productivity in aquaculture. I conducted field trials of formulated probiotics for disease control in oyster hatcheries. Add link to aquaculture magazine issue.
-<br/>PhD Gomez-Chiarri Lab, URI.  
+<br/>PhD Gomez-Chiarri Lab, URI  
 
 
 ## Harnessing the power of Next Generation Sequencing to produce new genomes.
