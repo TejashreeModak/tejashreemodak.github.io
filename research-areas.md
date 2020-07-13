@@ -18,7 +18,7 @@ Although presence of structural variation has been known since 1970s it is a hig
 <br/>Post doctoral Research Fellow at [Schwartz Lab](://schwartzlaburi.github.io/)  
 
 
-
+<br/><br/>
 ## What do we know about innate immunity? And what we need to explore more.
 
 <img align="right" src="/img/innate_immunity.png">
