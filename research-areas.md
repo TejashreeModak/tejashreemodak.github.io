@@ -28,8 +28,13 @@ Organisms with no adaptive immunity rely on mechanisms of innate immunity that a
 <br/>PhD [Gomez-Chiarri Lab](https://web.uri.edu/favs/marta-gomez-chiarri/), URI  
 <hr/>
 
+## 4. Harnessing the power of Next Generation Sequencing to produce new genomes.
 
-## 4. Lineage-specific Immune gene family expansion. 
+ A sequenced genome can unlock a massive amount of research power. I have been part of two genome consortiums to sequence and develop genomes of non-model organisms as a scientific resource for comparative studies. Currently, I am leading the efforts for genome annotation of *Porites asteroides* genome under lead PI Hollie Putnam. This genome will be a valuable resource in coral genomic studies.     
+<hr/>
+
+
+## 5. Lineage-specific Immune gene family expansion. 
 
 <img align="left" src="/img/expanded_fam.png">
 It has long been recognized that genes involved in the immune response are among the most rapidly evolving in many organisms. A large number of molecules in the immune system are encoded by multigene families. A classic example of a large multigene immune gene family is the globin family. Comparative genomics allows us to explore levels of diversification that vary between lineages. The goal of this project was to study novel lineage specific expansions in immune genes of GTPase of the immune-associated proteins (GIMAP) and interferon-inducible 44 (IFI44). The featured image is from the publication from this project that shows maximum likelihood phylogenetic tree of interferon-induced protein 44 (IFI44) sequences. 
@@ -38,8 +43,7 @@ It has long been recognized that genes involved in the immune response are among
 <hr/>
 
 
-
-## 5. Commercial applications through research.
+## 6. Commercial applications through research.
 
 <img align="left" src="/img/commercial_app.png">
 Aquaculture is a growing industry that grapples with problems of vibriosis that directly affects production. This project aimed at developing sustainable and natural solutions by utilizing beneficial microbes to improve health and productivity in aquaculture. I conducted field trials of formulated probiotics for disease control in oyster hatcheries. The featured image is from an article published by Dr. Rod Getchell from Cornell University in [Fish Farming News](https://fish-news.com/ffn/) which is a national business newspaper for the US aquaculture industry.  
@@ -48,10 +52,6 @@ Aquaculture is a growing industry that grapples with problems of vibriosis that 
 
 
 
-## 6. Harnessing the power of Next Generation Sequencing to produce new genomes.
-
-A sequenced genome can unlock a massive amount of research power. I have been part of two genome consortiums to sequence and develop genomes of non-model organisms as a scientific resource for comparative studies.   
-<hr/>
 
 
 ## 7. What can molecular DNA markers tell us about colonization history of Pacific islands?
