@@ -30,7 +30,7 @@ Organisms with no adaptive immunity rely on mechanisms of innate immunity that a
 
 ## 4. Harnessing the power of Next Generation Sequencing to produce new genomes.
 
- A sequenced genome can unlock a massive amount of research power. I have been part of two genome consortiums to sequence and develop genomes of non-model organisms as a scientific resource for comparative studies. Currently, I am leading the efforts for genome annotation of *Porites asteroides* genome under lead PI Hollie Putnam. This genome will be a valuable resource in coral genomic studies.     
+ A sequenced genome can unlock a massive amount of research power. I have been part of two genome consortiums to sequence and develop genomes of non-model organisms as a scientific resource for comparative studies. Currently, I am leading the efforts for genome annotation of *Porites astreoides** genome under lead PI Hollie Putnam. This genome will be a valuable resource in coral genomic studies.     
 <hr/>
 
 
@@ -49,9 +49,6 @@ It has long been recognized that genes involved in the immune response are among
 Aquaculture is a growing industry that grapples with problems of vibriosis that directly affects production. This project aimed at developing sustainable and natural solutions by utilizing beneficial microbes to improve health and productivity in aquaculture. I conducted field trials of formulated probiotics for disease control in oyster hatcheries. The featured image is from an article published by Dr. Rod Getchell from Cornell University in [Fish Farming News](https://fish-news.com/ffn/) which is a national business newspaper for the US aquaculture industry.  
 <br/>PhD Gomez-Chiarri Lab, URI  
 <hr/>
-
-
-
 
 
 ## 7. What can molecular DNA markers tell us about colonization history of Pacific islands?
