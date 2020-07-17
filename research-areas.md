@@ -30,7 +30,7 @@ Organisms with no adaptive immunity rely on mechanisms of innate immunity that a
 
 ## 4. Harnessing the power of Next Generation Sequencing to produce new genomes.
 
- A sequenced genome can unlock a massive amount of research power. I have been part of two genome consortiums to sequence and develop genomes of non-model organisms as a scientific resource for comparative studies. Currently, I am leading the efforts for genome annotation of **Porites astreoides** genome under guidance of my PI Hollie Putnam. This genome will be a valuable resource in coral genomic studies.     
+ A sequenced genome can unlock a massive amount of research power. I have been part of two genome consortiums to sequence and develop genomes of non-model organisms as a scientific resource for comparative studies. Currently, I am leading the efforts for genome annotation of *Porites astreoides* genome under guidance of my PI Hollie Putnam. This genome will be a valuable resource in coral genomic studies.     
 <hr/>
 
 
