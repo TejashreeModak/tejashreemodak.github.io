@@ -11,7 +11,11 @@ I volunteered at this exciting event held at Fort Adams for the Newport Stopover
 :-------------------------:|:-------------------------:
 ![](/img/IMG_7212.jpg)  |  ![](/img/IMG_7211.jpg)
 
+<hr/>
+
 ## The SMILE Program: Science and Math Investigative Learning Experience
 
 Students who are members of the SMILE club come to University of Rhode island campus for 4th grade Ecology Day. I had such a blast with the students at the Marine Encounters Station where we talked about plastic pollution on the beaches and how recycling and reducing plastic waste is important. Students were educated about how plastic pieces can be ingested and can be very damaging to animals. Their inquisitiveness and curiosity is unmatched! Hope to build interest and awareness in more students and our future scientists every year! 
 <br/>[Event website](https://web.uri.edu/smile/4th-grade-ecology-day/)
+<hr/>
+
