@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: FASTA tools 
@@ -24,15 +25,18 @@ Lets say you want to add the year of collection to Sample1, add a subsample name
 
 Below is the script that you can save as a .py file. 
 
-```shell
+```python
 import sys
 import argparse
 import csv
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--mapping-file", metavar="F", type=argparse.FileType("r"), required=True, help="A csv mapping file containing 2 columns - 'old-name,new-name'")
-parser.add_argument("-i", type=argparse.FileType("r"), default=sys.stdin, help="The input fasta file (default: stdin)")
-parser.add_argument("-o", type=argparse.FileType("w"), default=sys.stdout, help="The output fasta file (default: stdout)")
+parser.add_argument("--mapping-file", metavar="F", type=argparse.FileType("r"), required=True,
+                    help="A csv mapping file containing 2 columns - 'old-name,new-name'")
+parser.add_argument("-i", type=argparse.FileType("r"), default=sys.stdin,
+                    help="The input fasta file (default: stdin)")
+parser.add_argument("-o", type=argparse.FileType("w"), default=sys.stdout,
+                    help="The output fasta file (default: stdout)")
 
 args = parser.parse_args()
 
@@ -63,7 +67,8 @@ python rename_fasta.py -h
 Using -h will invoke help for the script. This will tell you how to enter the arguments. If you keep the script as is here is how you can run it.
 
 ```shell
-python rename_fasta.py --mapping-file <path-to-csv-file> -i <path-to-original-FASTA-file> -o <path-to-edited-FASTA-file> 
+python rename_fasta.py --mapping-file <path-to-csv-file> \
+        -i <path-to-original-FASTA-file> -o <path-to-edited-FASTA-file> 
 ```
 
 This will create a new FASTA file with edited header names in the location specified! 
