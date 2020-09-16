@@ -14,7 +14,6 @@ FASTA format is a commonly used format that is required in a multitude of applic
 All you need is a txt file that holds old names in field 1 and new names in field 2 separated by a comma as stored as a csv file. You can get the old names from a FASTA file by using `grep '^>' <file.fasta>`. Create a new name field as you want in the edited FASTA. Here is what it should look like: 
 
 ```shell
-old_name,new_name
 Sample1,Sample1_2020
 Sample2,Sample2B
 Sample3,Control1
@@ -32,12 +31,12 @@ import csv
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--mapping-file", metavar="F",
-          type=argparse.FileType("r"), required=True,
-          help="A csv mapping file containing 2 columns - 'old-name,new-name'")
+      type=argparse.FileType("r"), required=True,
+      help="A csv mapping file containing 2 columns - 'old-name,new-name'")
 parser.add_argument("-i", type=argparse.FileType("r"), default=sys.stdin,
-          help="The input fasta file (default: stdin)")
+      help="The input fasta file (default: stdin)")
 parser.add_argument("-o", type=argparse.FileType("w"), default=sys.stdout,
-          help="The output fasta file (default: stdout)")
+      help="The output fasta file (default: stdout)")
 
 args = parser.parse_args()
 
