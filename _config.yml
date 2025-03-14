@@ -10,7 +10,7 @@ description: "Postdoctoral Research Fellow, URI"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://tejashree1modak.github.io"
+url: "http://tejashreemodak.github.io"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -72,9 +72,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "tejashree@uri.edu"
+  email: "tejashree.modak@gmail.com"
   facebook: Tejashree Modak
-  github: tejashree1modak
+  github: TejashreeModak
   twitter: ModakTejashree
 #  reddit: yourname
   linkedin: "in/tejashree-modak-b187a738/"
