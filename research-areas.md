@@ -10,19 +10,12 @@ I have presented as first author both in AACR 2022 and AMP 2023 for detection of
 Development and optimization of NGS assays and pipelines for CAP-certified CLIA lab allowed me to get a rigorous understanding of regulatory standards.
 Start-up culture at Pillar, motivated me to challenge myself every day and to keep pushing the envelope. In a fast-paced workplace I had to wear many hats at once and juggle multiple projects which kept my organizational skills polished. A smaller team allowed cross-functional collaboration with wet-lab, software, regulatory team and commercial team. Applying my scientific training in furthering healthcare research was the most rewarding part of my job.
 I primarily used R for analysis, data wrangling and visualization (tidyverse), Python scripts and unix on a daily basis for various bioinformatics tasks. 
-<br/> AMP poster presentations 2023 
-<ul> 
-<li>[2023-AMP-Modak-et-al](https://pillarbiosci.com/wp-content/uploads/2023/11/2023-AMP-Modak-et-al-oncoReveal-Fusion-LBx_Single-Tube-Multiplexed-PCR-Based-NGS-Assay.pdf)</li> 
-<li>[2023-AMP-Conley-Modak-et-al](https://www.pillarbiosci.com/wp-content/uploads/2023/11/2023-AMP-Conley-et-al-Robust-Bioinformatic-Method-for-Estimating-Tumor-Content-in-cfDNA-Using-Denoised-Target-Sequencing.pdf)</li>
-</ul>
-<br> AACR Poster presentation 2022 [2022-Modak-et-al](https://www.pillarbiosci.com/wp-content/uploads/2022/04/2022AACR_fusion_TM_shared-002_ak_edit-scaled.jpg)
 <br>
 <p><strong>2 AMP Posters 2023</strong></p>
 <ul>
   <li><a href="https://pillarbiosci.com/wp-content/uploads/2023/11/2023-AMP-Modak-et-al-oncoReveal-Fusion-LBx_Single-Tube-Multiplexed-PCR-Based-NGS-Assay.pdf" target="_blank">2023-AMP-Modak-et-al</a></li>
   <li><a href="https://www.pillarbiosci.com/wp-content/uploads/2023/11/2023-AMP-Conley-et-al-Robust-Bioinformatic-Method-for-Estimating-Tumor-Content-in-cfDNA-Using-Denoised-Target-Sequencing.pdf" target="_blank">2023-AMP-Conley-Modak-et-al</a></li>
 </ul>
-<br>
 <p><strong>AACR Poster presentation 2022</strong></p>
 <ul>
   <li><a href="https://www.pillarbiosci.com/wp-content/uploads/2022/04/2022AACR_fusion_TM_shared-002_ak_edit-scaled.jpg" target="_blank">2022-AACR-Modak-et-al</a></li>
