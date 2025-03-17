@@ -16,6 +16,17 @@ I primarily used R for analysis, data wrangling and visualization (tidyverse), P
 <li>[2023-AMP-Conley-Modak-et-al](https://www.pillarbiosci.com/wp-content/uploads/2023/11/2023-AMP-Conley-et-al-Robust-Bioinformatic-Method-for-Estimating-Tumor-Content-in-cfDNA-Using-Denoised-Target-Sequencing.pdf)</li>
 </ul>
 <br> AACR Poster presentation 2022 [2022-Modak-et-al](https://www.pillarbiosci.com/wp-content/uploads/2022/04/2022AACR_fusion_TM_shared-002_ak_edit-scaled.jpg)
+<br>
+<p><strong>2 AMP Posters 2023</strong></p>
+<ul>
+  <li><a href="https://pillarbiosci.com/wp-content/uploads/2023/11/2023-AMP-Modak-et-al-oncoReveal-Fusion-LBx_Single-Tube-Multiplexed-PCR-Based-NGS-Assay.pdf" target="_blank">2023-AMP-Modak-et-al</a></li>
+  <li><a href="https://www.pillarbiosci.com/wp-content/uploads/2023/11/2023-AMP-Conley-et-al-Robust-Bioinformatic-Method-for-Estimating-Tumor-Content-in-cfDNA-Using-Denoised-Target-Sequencing.pdf" target="_blank">2023-AMP-Conley-Modak-et-al</a></li>
+</ul>
+<br>
+<p><strong>AACR Poster presentation 2022</strong></p>
+<ul>
+  <li><a href="https://www.pillarbiosci.com/wp-content/uploads/2022/04/2022AACR_fusion_TM_shared-002_ak_edit-scaled.jpg" target="_blank">2022-AACR-Modak-et-al</a></li>
+</ul>
 <hr/>
 
 
