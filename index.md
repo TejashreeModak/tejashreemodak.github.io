@@ -5,7 +5,7 @@ nav-short: true
 css: /css/index.css
 bigimg:
   - "/img/IMG_7418.jpg" : "Poster presentation at The Society for Women in Marine Science symposium"
-  - "/img/IMG_0163_crop2.jpg" : "Poster presentation at Genomics conference, The Royal Society "
+  - "/img/IMG_0163_crop.jpg" : "Poster presentation at Genomics conference, The Royal Society "
   - "/img/T_AMP.jpeg" : "Poster presentation at Association of Molecular Pathology"
 ---
 
