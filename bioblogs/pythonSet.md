@@ -6,11 +6,11 @@ date: 2025-04-03
 
 ## Python tool for gene list comparisons
 
-As a scientist analyzing NGS data, one of the common bioinformatics task I need to use is comparing datasets to find common and unique features. One exampleis comparing gene lists in different samples or treatments or calls in NGS runs. There are many methods one can use, owing to preference in scripting language or favorite packages. 
+As a scientist analyzing NGS data, one of the common bioinformatics task I need to use is comparing datasets to find common and unique features. One example is comparing gene lists in different samples or treatments or calls in NGS runs. There are many methods one can use, owing to preference in scripting language or favorite packages. 
 
 I was recently analyzing scRNAseq data to identify EMT biomarkers in breast cancer samples. We were using mouse models and at one point in my analysis I wanted to compare EMT hallmark genes against my dataset. I used the [MsigDB](https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION.html) as a resource to get the hallmark genes. I also wanted to compare hallmark gene lists between mouse and human.  
 
-Here is a simple *python script* that uses *set operations* to do just that. 
+Here is a *python script* that uses *set operations* to do just that. 
 
 
 ```python
@@ -51,7 +51,7 @@ This python script uses the following to note for new users:
 - Added section headers and formatting: Makes the output structured and easier to interpret.
 
 
-Since I find myself making such comparisons in many different scenarios or projects why not make a tool out of this script that can do these comparisons for any two files with gene names that the user inputs.
+Since I find myself making such comparisons in many different scenarios or projects why not make a ***tool*** out of this script that can do these comparisons for any two files with gene names that the user inputs.
 
 ```python
 
