@@ -6,12 +6,15 @@ date: 2025-06-09
 
 ## Data Science on the Run: Analyzing the 2025 Boston Run to Remember Half Marathon
 
-As a data enthusiast and recreational runner, I combined my passions by diving into the results of the **2025 Boston Run to Remember Half Marathon**. I downloaded and cleaned the dataset, focused on ==female participants==, and explored performance trends using both R and a corresponding python notebook showcasing the same analysis using different languages/methods. Analyzing real-world race data like this was incredibly satisfying — it’s a great example of how data science intersects with daily life and hobbies.
+
+<img align="left" src="/img/marathon/IMG_6677.jpeg">
+
+I recently finished my fourth Half Marathon this time in Boston! As a data enthusiast and recreational runner, I combined my passions by diving into the results of the **2025 Boston Run to Remember Half Marathon**. I downloaded and cleaned the dataset, focused on *female participants*, and explored performance trends using both R and a corresponding python notebook showcasing the same analysis using different languages/methods. Analyzing real-world race data like this was incredibly satisfying — it’s a great example of how data science intersects with daily life and hobbies.
 
 This post is a walkthrough of my analysis — covering data wrangling, visualizations, statistical modeling, and some fun insights on pacing strategies.
 
 ### The Data
-The data came from the [official results page] (https://results.raceroster.com/v2/en-US/results/36vs6pxhw573fv4c/results?subEvent=227956) and included names, finish times, age groups, and split times (5K, 10K, 10M, etc). I filtered the dataset for female runners only since I was interested in finding more insights in this group. Maximum time to finish the race was 3 hours. 
+The data came from the [official results page](https://results.raceroster.com/v2/en-US/results/36vs6pxhw573fv4c/results?subEvent=227956) and included names, finish times, age groups, and split times (5K, 10K, 10M, etc). I filtered the dataset for female runners only since I was interested in finding more insights in this group. Maximum time to finish the race was 3 hours. 
 
 ### Data Preparation
 - Always start with data cleaning steps. Here I removed rows with empty pace or split times and rows with any other fields that were NA.
@@ -77,7 +80,7 @@ Using K-means clustering on finish times and age, I identified three distinct pe
 This visualization helps identify groups like elites, mid-packers, and back-of-the-pack runners.
 
 ### Split-Wise Pacing
-####Pace Dynamics by Split
+#### Pace Dynamics by Split
 I decomposed runners’ performances into four key splits:
 -0–5K
 -5K–10K
