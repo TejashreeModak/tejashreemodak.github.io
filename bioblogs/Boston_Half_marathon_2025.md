@@ -37,11 +37,13 @@ outliers
 #### Participation Stats: Number of Runners per Age Group
 Age group 20-24, had the highest participation, it was inspiring to see runners in 70-74 age group still participating.
 
-<img align="left" src="/img/marathon/Num_runners_per_age_grp.png">
+<img align="left" src="/img/marathon/Num_runners_per_age_grp2.png">
 
 #### Finish Time by Age Group
 Using ggplot2, I created a boxplot to show the spread of finish times across age divisions.
 Plotly is super useful in making the plot interactive. 
+
+<img align="left" src="/img/marathon/Boxplot_Finish_Time_by_Age_Group.png">
 
 #### Finish Time Distribution
 I also explored how finish times are distributed. A histogram faceted by age group shows the trend of frequency of runners across finish times.You can see that while most runners finish around 110–140 minutes, younger runners tend to skew faster. 
@@ -52,9 +54,12 @@ I also explored how finish times are distributed. A histogram faceted by age gro
 I highlighted the top 5 finishers per age group:
 This clearly showed how middle-aged runners tended to dominate top finishes.
 
+<img align="left" src="/img/marathon/Top_5_runners_per_age_grp.png">
+
 #### Normalized Finish Times
 To compare across divisions more fairly, I normalized finish times (z-scores):
 
+<img align="left" src="/img/marathon/Normalized_Finish_Time_by_Age_Group.png">
 
 This makes it easier to identify who outperformed their peers, regardless of age.
 
@@ -66,6 +71,9 @@ But when I fit a quadratic model, the curve was U-shaped — middle-aged runners
 lm(FinishTime_numeric ~ poly(AgeGroup, 2), data = df_age)
 
 ```
+
+<img align="left" src="/img/marathon/Quadratic_model.png">
+
 #### Multivariate Regression
 I built a multiple regression model using pace, 10K split, and age group. Result?
 ```r
@@ -114,7 +122,7 @@ This paints a picture of group pacing strategy — many runners start conservati
 - Runners who ran negative splits had better results.
 
 ### Code
-You can find the full code on my [GitHub](). Feel free to fork, adapt, or use it in your own running analytics!
+You can find the full code on my [GitHub](https://github.com/TejashreeModak/Blog_Boston_Half_Marathon/tree/main). Feel free to fork, adapt, or use it in your own running analytics!
 
 ## 🏁 Wrapping Up
 
