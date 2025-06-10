@@ -85,6 +85,8 @@ Pace was the dominant predictor. Age and splits didn’t matter much once pace w
 #### Cluster Analysis
 Using K-means clustering on finish times and age, I identified three distinct performance clusters:
 
+<img align="left" src="/img/marathon/clustering_by_age.png">
+
 This visualization helps identify groups like elites, mid-packers, and back-of-the-pack runners.
 
 ### Split-Wise Pacing
@@ -97,6 +99,7 @@ I decomposed runners’ performances into four key splits:
 
 Then visualized how their pace varied across splits:
 
+<img align="left" src="/img/marathon/pace_dynamics_by_split.png">
 
 We can see the blue line (mean pace) — runners generally slowed down in the later stages.
 
@@ -104,12 +107,17 @@ We can see the blue line (mean pace) — runners generally slowed down in the la
 How evenly a runner paces across splits — and correlate with performance
 Test the idea that more consistent pacing leads to better outcomes.
 
+<img align="left" src="/img/marathon/pace_variability_vs_finish_time.png">
+
 #### Negative Splits
 I also examined who ran a negative split (second half faster than the first). 
+
+<img align="left" src="/img/marathon/negative_splits.png">
 
 #### Cumulative Progression
 To get a sense of how runners progressed through the course, I reconstructed their cumulative time over each split:
 
+<img align="left" src="/img/marathon/cumulative_progression.png">
 
 This paints a picture of group pacing strategy — many runners start conservatively and fade in the second half.
 
@@ -132,5 +140,5 @@ Whether you're a runner, a data scientist, or both, one thing is clear:
 
 **The finish line is just the beginning when you're chasing insights.**
 
-**Run data. Uncover patterns. Go the distance. 🏃📊**
+**Run data. Uncover patterns. Go the distance. :running_woman:🏃📊🏃‍♀️**
 
