@@ -8,8 +8,8 @@ date: 2025-06-09
 
 
 <img align="left" src="/img/marathon/IMG_6677.jpeg">
-
-I recently finished my fourth Half Marathon this time in Boston! As a data enthusiast and recreational runner, I combined my passions by diving into the results of the **2025 Boston Run to Remember Half Marathon**. I downloaded and cleaned the dataset, focused on *female participants*, and explored performance trends using both R and a corresponding python notebook showcasing the same analysis using different languages/methods. Analyzing real-world race data like this was incredibly satisfying — it’s a great example of how data science intersects with daily life and hobbies.
+<br>
+I recently finished my fourth Half Marathon, this time in Boston! As a data enthusiast and recreational runner, I combined my passions by diving into the results of the **2025 Boston Run to Remember Half Marathon**. I downloaded and cleaned the dataset, focused on *female participants*, and explored performance trends using both R and a corresponding python notebook showcasing the same analysis using different languages/methods. Analyzing real-world race data like this was incredibly satisfying — it’s a great example of how data science intersects with daily life and hobbies.
 
 This post is a walkthrough of my analysis — covering data wrangling, visualizations, statistical modeling, and some fun insights on pacing strategies.
 
@@ -22,12 +22,12 @@ The data came from the [official results page](https://results.raceroster.com/v2
 - Outliers: taking a look at the outliers is very important, here I perform outlier analysis using the Interquartile Range (IQR) method. These turned out to be outlier slow times that might reflect pacing issues, injuries, or walkers. 
 ```r
 # Calculate IQR for finish time
-Q1 <- quantile(df_age$FinishTime_numeric, 0.25)
-Q3 <- quantile(df_age$FinishTime_numeric, 0.75)
+Q1 <- quantile(df$FinishTime, 0.25)
+Q3 <- quantile(df$FinishTime, 0.75)
 IQR <- Q3 - Q1
 # Identify outliers (outside of 1.5*IQR range)
 outliers <- df %>%
-  filter(FinishTime_numeric < (Q1 - 1.5 * IQR) | FinishTime_numeric > (Q3 + 1.5 * IQR))
+  filter(FinishTime < (Q1 - 1.5 * IQR) | FinishTime > (Q3 + 1.5 * IQR))
 # View outliers
 outliers
 ```
@@ -41,9 +41,10 @@ Age group 20-24, had the highest participation, it was inspiring to see runners 
 
 #### Finish Time by Age Group
 Using ggplot2, I created a boxplot to show the spread of finish times across age divisions.
-Plotly is super useful in making the plot interactive. 
 
 <img align="left" src="/img/marathon/Boxplot_Finish_Time_by_Age_Group.png">
+
+You can also use Plotly to make the plots interactive. 
 
 #### Finish Time Distribution
 I also explored how finish times are distributed. A histogram faceted by age group shows the trend of frequency of runners across finish times.You can see that while most runners finish around 110–140 minutes, younger runners tend to skew faster. 
@@ -140,5 +141,5 @@ Whether you're a runner, a data scientist, or both, one thing is clear:
 
 **The finish line is just the beginning when you're chasing insights.**
 
-**Run data. Uncover patterns. Go the distance. :running_woman:🏃📊🏃‍♀️**
+**Run data. Uncover patterns. Go the distance. 📊🏃‍♀️**
 
